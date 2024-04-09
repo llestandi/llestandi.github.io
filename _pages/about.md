@@ -18,6 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-  Hi, I'm Lucas, associate professor (MCF) at Ecole Centrale Nantes, France. I mostly focus on the following aspects
-  Reduced Order Modeling (intrusive), Surrogate modeling (non-intrusive), Machine Learning for science, POD/SVD
-  Dimension reduction, tensor decomposition. With various application fields e.g. Complex flows, Additive manufacturing of metals, etc.
+  Hi, I'm Lucas, associate professor (maitre de conférences) at [Ecole Centrale Nantes](https://www.ec-nantes.fr/english-version?l=1), France. I mostly focus my research as member of [GeM laboratory](https://gem.ec-nantes.fr/en/gem-institute-2/) on the following aspects Reduced Order Modeling (intrusive) and Surrogate modeling (non-intrusive) techniques. This involves playing with computers for Machine Learning (ML) for science, POD/SVD, and tensor decomposition. I'm technically a mechanician, so I apply these techniques to various problems e.g. Complex flows, Additive manufacturing of metals , etc.

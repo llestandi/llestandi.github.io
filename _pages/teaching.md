@@ -15,19 +15,23 @@ toc:
 {: .block-warning }
 
 
-## Algorithmics and Programming - ALGOR (Since 2022)
-*Goals : learn basic algorithms (sorting,...) and structures (linked-lists, trees,...). Learn methods and programming tools, and IT project management using C++* 
+## Algorithmics and Programming - ALGOR 
+Duration: 30h
 
 **Lead teacher:** Hugues Digonnet
 
-I'm teaching algorithmics tutorial and C++ Labs.
+*Goals : learn basic algorithms (sorting,...) and structures (linked-lists, trees,...). Learn methods and programming tools, and IT project management using C++* 
+
+**Since 2022**: I'm teaching algorithmics tutorial and C++ Labs.
 
 ## Information systems - SIINF (From 2024)
-*A new course on Information systems starting 2024 fall semester*
+Duration : 30h
 
 **Lead teacher:** Morgan Mangin
 
-I will be teaching SQL labs 
+*A new course on Information systems starting 2024 fall semester*
+
+**Starting 2024** : I will be teaching SQL labs 
 
 
 > ###### FastTrack program
@@ -35,7 +39,13 @@ I will be teaching SQL labs
 {: .block-warning }
 
 ## Databases
+Duration : 24h
 
+**Lead Teacher: Lucas Lestandi**
+
+*Goal: Understand the basics of databases (DB) construction with relational modeling, be able to create and interact with SQL driven DB and introduction to modern distributed DB architectures (noSQL).*
+
+**Since 2022** : Course leader, teaching labs, tutorial and lectures 
 
 # Bachelor
 > ###### BBA Big Data & Management 
@@ -43,5 +53,19 @@ I will be teaching SQL labs
 {: .block-warning }
 
 ## Databases
+Duration : 24h
 
-## Data vizualization
+**Lead Teacher: Lucas Lestandi**
+
+*Goal: Understand the basics of databases (DB) construction with relational modeling, be able to create and interact with SQL driven DB and introduction to modern distributed DB architectures (noSQL).*
+
+**Since 2022** : Course creation, Course leader, teaching labs, tutorial and lectures 
+
+## Data visualization
+Duration: 24h
+
+**Lead Teacher: Lucas Lestandi**
+
+*Introductory course on datavisualization. Student learn how to analyze and explore data with visualization tools. They also learn how to communicate efficiently their findings with a set of good practices for designing graphs and learn how to using python tools to do so.*
+
+**Since 2022** : Course creation, course leader, teaching labs,  tutorial and lectures 
