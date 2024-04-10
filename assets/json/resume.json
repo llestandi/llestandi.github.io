@@ -26,81 +26,71 @@
     {
       "name": "Ecole Centrale de Nantes, Laboratoire GeM",
       "position": "Associate professor in computational mechanics",
-      "url": "",
-      "startDate": "2022-01-01",
+      "location": "Bordeaux, France",
+      "url": "https://www.ec-nantes.fr/english-version?l=1",
+      "startDate": "2022",
       "endDate": "",
       "summary": "As a member of the Maths and Computer Science department, I teach mostly computer science courses (programming, python, data visualization...). I run my research at GeM laboratory in the MECNUM team. I focus on data driven approaches to solve faster complex mechanics problem which involves large models and data sets.",
       "highlights": ["Additive manufacturing of metals", "Large dimension reduction techniques"]
     },
     {
-      "name": "EM, IHPC, A*Star, Singapore",
+      "name": "Institute of High Performance Computing, A*Star",
       "position" : "Scientist",
       "startDate" : "2020-05-01",
       "endDate" : "2021-12-10",
+      "location": "Singapore",
       "summary" : "Surrogate modeling for Additive Manufacturing Marine & offshore structures",
       "highlights": ["Data driven models", "Physics informed NN", "ROM", "geometric parametrization"]
     },
     {
     "name": "SPMS, Nanyang Technological University, Singapore",
-    "osition" : "Research Fellow",
+    "position" : "Research Fellow",
     "startDate" : "2019-04-01",
     "endDate" : "2020-03-31",
-    "summary" : "Investigating Neural networks for PDEs Tutorials in mathematics for engineering.",
+    "summary" : "Investigating neural networks for PDEs Tutorials in mathematics for engineering.",
+    "location": "Singapore",
     "highlights": []
     },
-  	{
-      "name": "SPMS, Nanyang Technological University, Singapore",
-      "position" : "Research Fellow",
-      "startDate" : "2019-04-01",
-      "endDate" : "2020-03-31",
-      "summary" : "Investigating Neural networks for PDEs Tutorials in mathematics for engineering.",
-      "highlights": []
-    },
     {
-      "startDate": "2015-01-01",
-      "endDate": "2018-12-31",
-      "Position": "Teacher Assistant",
+      "startDate": "2015-10",
+      "endDate": "2018-10",
+      "position": "Teacher Assistant",
+      "location": "Bordeaux, France",
       "name": "Université de Bordeaux, Bordeaux INP",
       "summary": "Practical work (TP) at IUT Mesure physique Travaux Dirigés Fluid Dynamics, MATMECA"
     },
     {
-      "startDate": "2017-03-01",
-      "endDate": "2017-06-30",
-      "position": "Raman-Charpak fellow",
-      "name": "IIT Kanpur Aerospace Eng. Dpt., India",
-      "summary": "Analysis of instability through POD at T.K. Sengupta HPC lab."
-    },
-    {
-      "startDate": "2015-02-01",
-      "endDate": "2015-07-31",
+      "startDate": "2015-02",
+      "endDate": "2015-07",
       "position": "Research Intern",
-      "name": "INRIA, Bordeaux",
+      "name": "INRIA",
+      "location": "Bordeaux, France",
       "summary": "3D implementation of fluid dynamics code to compute trajectories of ice chunks formed on aircrafts. level-set, vortex-in-cell, IBM, etc."
     }
   ],
+  "awards": [{
+    "title": "Raman-Charpak fellowship at IIT Kanpur Aerospace Eng. Dpt.",
+    "date": "2016-03",
+    "awarder": "CEFIPRA",
+    "summary": "Analysis of instability through POD at T.K. Sengupta HPC lab. during 3 months"
+  }],
+
   "education": [
     {
       "institution": "I2M/TREFLE, Université de Bordeaux",
       "location": "Bordeaux, France",
-      "studyType": "PhD",
-      "startDate": "2015-10-13",
-      "endDate": "2018-10-16",
-      "area": "Mechanics",
-      "thesisTitle": "Low rank approximation techniques and reduced order modeling applied to some fluid dynamics problems.",
-      "supervisors": [
-        "Mejdi Azaiez (U. Bordeaux)",
-        "Tomás Chacón (U. Sevilla)"
-      ],
-      "details": {
-        "methods": ["Tensor decomposition", "POD analysis of bifurcation sequence in LDC flow", "ROM (a) \"physical\" interpolation, (b) POD Galerkin"]
-      }
+      "studyType": "PhD in mechanics",
+      "startDate": "2015",
+      "endDate": "2018",
+      "area": "Low rank approximation techniques and reduced order modeling applied to some fluid dynamics problems.",
+      "courses": ["Tensor decomposition", "POD analysis of bifurcation sequence in LDC flow", "ROM (a) \"physical\" interpolation, (b) POD Galerkin"]
     },
     {
       "institution": "Université de Bordeaux",
       "location": "Bordeaux, France",
       "studyType": "MSc",
-      "startDate": "2014-01-01",
-      "endDate": "2015-12-31",
+      "startDate": "2014",
+      "endDate": "2015",
       "area": "Applied Mathematics",
       "thesisTitle": null,
       "supervisors": [],
@@ -109,9 +99,9 @@
     {
       "institution": "ENSEIRB-MATMECA, Bordeaux",
       "location": "Bordeaux, France",
-      "studyType": "Masters degree",
-      "startDate": "2012-01-01",
-      "endDate": "2015-12-31",
+      "studyType": "Diplome d'ingénieur - Masters degree in Engineering",
+      "startDate": "2012",
+      "endDate": "2015",
       "area": "Mathematical modelling and mechanics",
       "thesisTitle": null,
       "supervisors": [],
@@ -124,9 +114,8 @@
     {
       "name": "Data-driven surrogate modelling of residual stresses in Laser Powder-Bed Fusion",
       "publisher": "Int. J. of Computer Integrated Manufacturing",
-      "releaseDate": "2023-07-07",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/0951192X.2023.2257628",
-      "summary": "In order to enable the industrialization of additive manufacturing, it is necessary to develop process simulation models that can rapidly predict part quality. Although multi-physics simulations have shown success at predicting residual stress, distortion, microstructure and mechanical properties of additively manufactured parts, they are generally too computationally expensive to be directly used in applications, such as optimization, controls, or digital twinning. In this study, a critical evaluation is made of how data-driven surrogate models can be used to model the residual stress of parts fabricated by Laser Powder-Bed Fusion. Residual stress data is generated by using an inherent-strain based process simulation for two families of part geometries. Three different models using varying levels of sophistication are compared: a multilayer perceptron (MLP), a convolutional neural network (CNN) based on the U-Net architecture, and an interpolation-based method based on mapping geometries onto a reference. All three methods were found to be sufficient for part design, providing mechanical predictions for a CPU time below 0.2 s, representing a runtime speed-up of at least 3900x. Neural network-based models are significantly more expensive to train compared to using interpolation. However, the generality of models based on the U-Net architecture is attractive for applications in optimization."
+      "releaseDate": "2023",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/0951192X.2023.2257628"
     }  
   ],
   "skills": [
@@ -188,17 +177,6 @@
         "bifurcations",
         "instabilities"
       ]
-      
-    }
-  ],
-  "projects": [
-    {
-      "name": ": Data reduction and surrogate modelling of transition to turbulence of Rayleigh-Taylor instability data obtained by DNS - CEFIPRA",
-      "summary": "It is now understood that many problems of fluid mechanics have been solved satisfactorily, except the problem of turbulence. In recent days, even this problem is understood for wall-bounded flows  and some other periodic problems. Understanding the physics and the route of transition to turbulence is not well understood from flow control perspective for free shear layers, as in the case of Rayleigh-Taylor instability (RTI). Thus, solving the problem of Rayleigh-Taylor instability by direct numerical simulation (DNS) has been taken up. This is being pursued by solving compressible three-dimensional Navier-Stokes equations employing high accuracy DNS methodologies (using in-house developed code) of HPC that use 4.19 billion points with commensurate small time steps. However, the DNS data is of size 160GB at each instant of time. Rendering such data is a huge challenge, not only for visualization itself, but also post-processing such data sets using techniques to characterize the nonlinear instability of the transition to turbulence. In this process, reduced data and surrogate models developed by the French side would be of tremendous value. Thus, in this proposal, generating the data by DNS (first step that has been already started) is as important as the concurrent development of the surrogate model and its subsequent use in unravelling the transition to turbulence of the RTI. We note that the generation of DNS data at Nantes is a very vital activity of this collaboration as one needs to time march the DNS to longer times.",
-      "highlights": ["RTI", "extreme scale computing", "data reduction"],
-      "startDate": "2023-09-01",
-      "endDate": "2026-09-01",
-      "url": "https://llestandi.github.io/CEFIPRA"
     }
   ]
 }
