@@ -13,7 +13,6 @@ tags: SVD, extreme scale, RTI
 > This is CEFIPRA funded project working with Prof Aditi Sengupta and Tapan Sengupta from [IIT(ISM) Dhanbad](https://www.iitism.ac.in/), India
 > - Dates: 2023-2026
 > - Keywords:  RTI, extreme scale computing, data reduction
-> - [Project site](https://llestandi.github.io/CEFIPRA)
 > - Goals:
 >   - Advance computing of FOM
 >   - Enhance physics understanding
