@@ -45,4 +45,6 @@ Finally, you should be able to serve your site like so:
 $ apptainer exec  --fakeroot --bind "$PWD:/srv/jekyll"  jekyll_sandbox   bundle exec jekyll serve --incremental --host 0.0.0.0 --port 4000
 ```
 
-Make sure you only have one server running on a given port 😉 otherwise the error is not clear
+Make sure you only have one server running on a given port 😉 otherwise the error is not clear!
+
+Updates may or may not be effective. You can alway clear the previous site by deleting `_site`.
