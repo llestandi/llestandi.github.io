@@ -3,7 +3,7 @@ layout: page
 title: CEFIPRA 2023
 description: Data reduction and surrogate modelling of transition to turbulence of Rayleigh-Taylor instability data obtained by DNS
 img: assets/img/RTI_image.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: False
 tags: SVD, extreme scale, RTI

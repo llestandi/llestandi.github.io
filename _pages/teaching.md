@@ -24,15 +24,23 @@ Duration: 30h
 
 **Since 2022**: I'm teaching algorithmics tutorial and C++ Labs.
 
-## Information systems - SIINF (From 2024)
+## Information systems - SIINF (Since 2025)
 Duration : 30h
 
 **Lead teacher:** Morgan Mangin
 
-*A new course on Information systems starting 2024 fall semester*
+*A new course on Information systems starting spring 2025 semester*
 
-**Starting 2024** : I will be teaching SQL labs 
+**Since 2025** : Teching tutorials and labs
 
+## Advanced Python Programming - PAPY 
+Duration : 32h
+
+**Lead Teacher: Lucas Lestandi**
+
+*Goal: Ensure students have necessary skills to interact with advanced ML libraries as well as develop their own python packages following good programming principles and relying on suitable libraries.*
+
+**Since 2022** : Course leader, teaching labs, tutorial and lectures 
 
 > ###### FastTrack program
 > A 1 year program for international students joining ECN engineering curiculum after completing a bachelor of science in their country.

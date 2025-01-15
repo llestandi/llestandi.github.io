@@ -229,7 +229,13 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
-  - vendor
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - jekyll_sandbox/*
+  - ruby
 keep_files:
   - CNAME
   - .nojekyll
