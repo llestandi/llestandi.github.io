@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SAMRARA"
+title: "SAMSARA"
 description: Smart Additive Manufacturing for Sustainability and Reliability
 img: /assets/img/SAMSARA/DALLE_SAMSARA_Visual.jpg
 importance: 1
@@ -22,6 +22,19 @@ tags: WAAM, physics based simulation, data driven modeling, in process monitorin
 </div>
 
 The SAMSARA project, coordinated by M. Jhon and myself, has been awarded funding for 3 years under ANR-PRCI 2024 joint call with Singapore NRF. The project focuses on **Smart Additive Manufacturing for Sustainability and Reliability**, specifically using Wire Arc Additive Manufacturing (WAAM) for repair processes.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_ANR.jpg" title="Agence nationale de la recherche" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_NRF.jpg" title="National Research Foundation" class="img-fluid rounded" %}
+    </div>
+</div>
+<div class="caption">
+    SAMSARA is a project jointly funded by Singapore NRF and France ANR.
+</div>
+
 
 ## Objective
 The primary goal is to integrate data-driven techniques with physics-based computer models to optimize the WAAM process for repair. This includes developing strategies to avoid manufacturing defects, reduce energy consumption, and maintain sufficient mechanical properties. The project aims to demonstrate the feasibility of integrating in-process monitoring and physics-based simulations for effective repair of complex steel workpieces.
@@ -65,16 +78,16 @@ The project will use a combination of physics-based simulations, in-process moni
 The project is a collaboration between French and Singaporean institutions. The French institutions are GeM, LS2N and IMN. The Singaporean institution is IHPC. Each of these institutions has specific expertise in areas including, but not limited to, computer science, mechanical engineering, materials science, and process simulation.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_GeM.png" title="GeM Logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_GeM.png" title="GeM Logo" class="img-fluid rounded" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_LS2N.png" title="LS2N Logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_LS2N.png" title="LS2N Logo" class="img-fluid rounded " %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_IMN.png" title="IMN" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_IMN.png" title="IMN" class="img-fluid rounded " %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_IHPC.png" title="IPHC" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SAMSARA/logo_IHPC.png" title="IPHC" class="img-fluid rounded " %}
     </div>
 </div>
 <div class="caption">
