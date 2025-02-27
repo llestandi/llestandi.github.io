@@ -31,3 +31,15 @@ It is now understood that many problems of fluid mechanics have been solved sati
 <div class="caption">
     Rayleigh Taylor instability simulation
 </div>
+
+
+## Physical meetings
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/centenary.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Feb 2025 visit and seminar at IIT ISM Dhanbad
+</div>
