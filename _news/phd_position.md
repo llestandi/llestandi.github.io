@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-29
+date: 2025-03-29
 inline: true
 related_posts: false
 ---
 
-As part of SAMSARA project, our team is opening a PhD position. More info here [english_pdf](../assets/pdf/SAMSARA_phd_opening.pdf)
+As part of SAMSARA project, our team will host a new PhD studend : Steven Lewis.
