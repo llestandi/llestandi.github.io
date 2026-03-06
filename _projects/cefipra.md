@@ -18,6 +18,11 @@ tags: SVD, extreme scale, RTI
 >   - Enhance physics understanding
 >   - Enable data reduction for very lage datasets
 >   - Develop surrogate models of RTI instability 
+> - Key outcomes
+>   - 2 Oral communications: DTE-AICOMAS 2025 and [SIAM PP26](../../assets/pdf/SIAM_PP26_presentation.pdf) 
+>   - 3 physical meetings
+>   - 1 published paper [Joshi et al.](https://www.sciencedirect.com/science/article/abs/pii/S0997754625001633) [PDF](https://hal.science/hal-05296538v1/file/2505.07433v1.pdf)
+>   - 1 paper submitted to Computational Physics Communication : [Ajanif et al](https://hal.science/GEM/hal-05315804v1)
 {: .block-warning }
 
 ## Abstract
@@ -25,7 +30,7 @@ It is now understood that many problems of fluid mechanics have been solved sati
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RTI_image.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RTI_image.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +42,7 @@ It is now understood that many problems of fluid mechanics have been solved sati
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/centenary.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/centenary_talk.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
