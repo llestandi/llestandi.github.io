@@ -35,6 +35,7 @@ The SAMSARA project, coordinated by M. Jhon and myself, has been awarded funding
     SAMSARA is a project jointly funded by Singapore NRF and France ANR.
 </div>
 
+{% include figure.liquid loading="eager" path="assets/img/SAMSARA/IUT_group_pic.jpg" title="Group photo at IUT" class="img-fluid rounded" caption="Group picture during June 2025 visit of Mark and Chao" %}
 
 ## Objective
 The primary goal is to integrate data-driven techniques with physics-based computer models to optimize the WAAM process for repair. This includes developing strategies to avoid manufacturing defects, reduce energy consumption, and maintain sufficient mechanical properties. The project aims to demonstrate the feasibility of integrating in-process monitoring and physics-based simulations for effective repair of complex steel workpieces.
