@@ -9,7 +9,7 @@ toc:
   sidebar: left
   depth: 3
 ---
-# Masters in Engineering
+# :student: Masters in Engineering
 > ###### Ingénieur Généraliste 
 > Centrale Nantes trains 420 students per year within its general engineering programme leading to the 'diplôme d'ingénieur' equivalent to a Master of Science and Engineering. More details  on [EC Nantes website](https://www.ec-nantes.fr/english-version/study/engineering-programme-diplome-dingenieur)
 {: .block-warning }
@@ -42,18 +42,28 @@ Duration : 32h
 
 **Since 2022** : Course leader, teaching labs, tutorial and lectures 
 
+## PIAF : Programming and infrastructure for Biodata analysis and figure creation
+
+Duration : 32h
+
+**Lead Teacher : Lucas Lestandi**
+
+*Goal: Ensure students have necessary skills to interact effectively with the various dataset encoutered in bioinformatics*
+
+**Since 2026** : Course leader, teaching python lectures and labs. Coordinating with other instructors
+
 > ###### FastTrack program
 > A 1 year program for international students joining ECN engineering curiculum after completing a bachelor of science in their country.
 {: .block-warning }
 
-## Databases
+## Databases (Discontinued)
 Duration : 24h
 
 **Lead Teacher: Lucas Lestandi**
 
 *Goal: Understand the basics of databases (DB) construction with relational modeling, be able to create and interact with SQL driven DB and introduction to modern distributed DB architectures (noSQL).*
 
-**Since 2022** : Course leader, teaching labs, tutorial and lectures 
+**2022-2025** : Course leader, teaching labs, tutorial and lectures 
 
 # Bachelor
 > ###### BBA Big Data & Management 
@@ -77,3 +87,14 @@ Duration: 24h
 *Introductory course on datavisualization. Student learn how to analyze and explore data with visualization tools. They also learn how to communicate efficiently their findings with a set of good practices for designing graphs and learn how to using python tools to do so.*
 
 **Since 2022** : Course creation, course leader, teaching labs,  tutorial and lectures 
+
+> ###### Bachelor of Science
+> A 3 year scientific course encompassing Math, Mechanics and Computer Science
+
+## INFO IV : Data Structures
+
+**Lead Teacher: Lucas Lestandi**
+
+*Introductory course to data structure with python : stacks, linked lists, trees and graphs.*
+
+**Since 2022** : Course leader, tutorial and lectures, managing instructors
